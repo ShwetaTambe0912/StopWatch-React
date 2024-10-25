@@ -1,4 +1,4 @@
-# React + Vite
+# Stopwatch Application
 A simple stopwatch app built with React, JavaScript, and CSS. This app allows users to start, stop, and reset a timer. It is designed to be intuitive and easy to use, featuring real-time updates and precise time tracking using React hooks.
 
 ## Features
